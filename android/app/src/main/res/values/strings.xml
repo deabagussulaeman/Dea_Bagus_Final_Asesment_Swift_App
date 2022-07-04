@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">SwiftApp</string>
-    <string moduleConfig="true" name="CodePushDeploymentKey">@string/CODEPUSH_KEY_ANDROID</string>
-</resources>
